@@ -1,0 +1,18 @@
+body{
+    background-color: burlywood;
+}
+.Tutorial{
+    text-align: center;
+}
+.thebuttons{
+    background-color: darkgoldenrod;
+    border-style: solid;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-width: 2px;
+    border-color: black;
+  }
